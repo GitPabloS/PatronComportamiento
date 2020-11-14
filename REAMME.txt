@@ -1,0 +1,4 @@
+Se utilizo el Strategy
+Se tiene un video juego con un jugador que utilizara diferentes armas y tendra una referencia con el arma que podria ser de distintos 
+tipos y todas tendran un comportamiento diferente.
+El jugador lo unico que entiende es que puede disparar en su momento, que invocara a la estrategia seleccionada.

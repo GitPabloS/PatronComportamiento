@@ -1,0 +1,26 @@
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.csprojAssemblyReference.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.csproj.GenerateResource.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.csproj.CoreCompileInputs.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.UI\bin\Debug\Patrones.Strategy.Core.dll
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.UI\bin\Debug\Patrones.Strategy.Core.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.csproj.CopyComplete
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.UI\bin\Debug\PatronesStrategyUI.exe.config
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.UI\bin\Debug\PatronesStrategyUI.exe
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.UI\bin\Debug\PatronesStrategyUI.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.Properties.Resources.resources
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.exe
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.Form1.resources
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.csprojAssemblyReference.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.Form1.resources
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.Properties.Resources.resources
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.csproj.GenerateResource.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.csproj.CoreCompileInputs.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.exe
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.UI\bin\Debug\PatronesStrategyUI.exe.config
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.UI\bin\Debug\PatronesStrategyUI.exe
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.UI\bin\Debug\PatronesStrategyUI.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.UI\bin\Debug\Patrones.Strategy.Core.dll
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.UI\bin\Debug\Patrones.Strategy.Core.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.UI\obj\Debug\PatronesStrategyUI.csproj.CopyComplete

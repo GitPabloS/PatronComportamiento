@@ -1,0 +1,13 @@
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.UI\bin\Debug\Patrones.Strategy.UI.exe.config
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.UI\bin\Debug\Patrones.Strategy.UI.exe
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.UI\bin\Debug\Patrones.Strategy.UI.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.UI\bin\Debug\Patrones.Strategy.Core.dll
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.UI\bin\Debug\Patrones.Strategy.Core.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\Patrones.Strategy.UI.csprojAssemblyReference.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\Patrones.Strategy.UI.Form1.resources
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\Patrones.Strategy.UI.Properties.Resources.resources
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\Patrones.Strategy.UI.csproj.GenerateResource.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\Patrones.Strategy.UI.csproj.CoreCompileInputs.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\Patrones.Strategy.UI.csproj.CopyComplete
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\Patrones.Strategy.UI.exe
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.UI\obj\Debug\Patrones.Strategy.UI.pdb

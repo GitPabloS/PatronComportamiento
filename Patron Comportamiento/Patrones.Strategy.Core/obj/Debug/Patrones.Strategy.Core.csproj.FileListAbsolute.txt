@@ -1,0 +1,18 @@
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.Core\bin\Debug\Patrones.Strategy.Core.dll
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.Core\bin\Debug\Patrones.Strategy.Core.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.csprojAssemblyReference.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.csproj.CoreCompileInputs.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.dll
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.Core\bin\Debug\Patrones.Strategy.Core.dll
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.Core\bin\Debug\Patrones.Strategy.Core.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.csprojAssemblyReference.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.csproj.CoreCompileInputs.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.dll
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\PatronComportamiento\Patrones.Strategy\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.Core\bin\Debug\Patrones.Strategy.Core.dll
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.Core\bin\Debug\Patrones.Strategy.Core.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.csprojAssemblyReference.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.csproj.CoreCompileInputs.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.dll
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 5\Patron Comportamiento\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.pdb
